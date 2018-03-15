@@ -1,5 +1,5 @@
 {
-    "name": "gianksp/cakephp-swagger",
+    "name": "glofox/cakephp-swagger",
     "description": "Swagger for CakePHP",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "swagger"],
